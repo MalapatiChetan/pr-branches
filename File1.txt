@@ -1,3 +1,4 @@
 light
 dark
-good
+bad
+morning
